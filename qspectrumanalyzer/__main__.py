@@ -446,6 +446,16 @@ class QSpectrumAnalyzerMainWindow(QtWidgets.QMainWindow, Ui_QSpectrumAnalyzerMai
             )
 
     @QtCore.Slot()
+    def on_baselineButton_clicked(self):
+        dialog = QSpectrumAnalyzerBaseline(self)
+        if dialog.exec_():
+            settings = QtCore.QSettings()
+            self.data_storage.set_subtract_baseline(
+                bool(self.subtractBaselineCheckBox.isChecked()),
+                settings.value("baseline_file", None)
+            )
+
+    @QtCore.Slot()
     def on_smoothButton_clicked(self):
         dialog = QSpectrumAnalyzerSmoothing(self)
         if dialog.exec_():

@@ -258,6 +258,41 @@
         <source>Levels</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../ui_qspectrumanalyzer.py" line="304"/>
+        <source>&amp;Controls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../ui_qspectrumanalyzer.py" line="308"/>
+        <source>Fre&amp;quency</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../ui_qspectrumanalyzer.py" line="313"/>
+        <source>&amp;Bin size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../ui_qspectrumanalyzer.py" line="315"/>
+        <source>Se&amp;ttings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../ui_qspectrumanalyzer.py" line="316"/>
+        <source>&amp;Interval [s]:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../ui_qspectrumanalyzer.py" line="317"/>
+        <source>&amp;Gain [dB]:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../ui_qspectrumanalyzer.py" line="330"/>
+        <source>&amp;Levels</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QSpectrumAnalyzerPersistence</name>

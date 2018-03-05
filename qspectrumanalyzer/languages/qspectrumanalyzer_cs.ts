@@ -17,6 +17,9 @@
         <source>Baseline &amp;file:</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>QSpectrumAnalyzerColors</name>
     <message>
         <location filename="../ui_qspectrumanalyzer_baseline.py" line="52"/>
         <source>...</source>

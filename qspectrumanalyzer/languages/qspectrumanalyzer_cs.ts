@@ -277,13 +277,13 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../__main__.py" line="437"/>
-        <source>Frequency hops: {}</source>
+        <location filename="../ui_qspectrumanalyzer.py" line="341"/>
+        <source>Smoothing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../__main__.py" line="438"/>
-        <source>Sweep time: {:.2f} s | FPS: {:.2f}</source>
+        <location filename="../ui_qspectrumanalyzer.py" line="347"/>
+        <source>...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

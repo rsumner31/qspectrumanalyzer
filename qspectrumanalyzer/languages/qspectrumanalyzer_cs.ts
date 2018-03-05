@@ -513,5 +513,25 @@
         <source>Window len&amp;gth:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="ui_qspectrumanalyzer_settings.py" line="91"/>
+        <source>Backend:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ui_qspectrumanalyzer_settings.py" line="93"/>
+        <source>rtl_power_fftw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ui_qspectrumanalyzer_settings.py" line="94"/>
+        <source>Executable:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ui_qspectrumanalyzer_settings.py" line="98"/>
+        <source>Sample rate:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

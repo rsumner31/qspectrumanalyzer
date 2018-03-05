@@ -609,8 +609,8 @@
   <tabstop>baselineButton</tabstop>
   <tabstop>subtractBaselineCheckBox</tabstop>
   <tabstop>histogramPlotLayout</tabstop>
-  <tabstop>mainPlotLayout</tabstop>
   <tabstop>waterfallPlotLayout</tabstop>
+  <tabstop>mainPlotLayout</tabstop>
  </tabstops>
  <resources/>
  <connections/>

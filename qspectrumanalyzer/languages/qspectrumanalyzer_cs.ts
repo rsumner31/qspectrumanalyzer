@@ -40,6 +40,9 @@
         <source>&amp;Main curve color:</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>QSpectrumAnalyzerColors</name>
     <message>
         <location filename="../ui_qspectrumanalyzer_colors.py" line="115"/>
         <source>Max. peak &amp;hold color:</source>
@@ -65,9 +68,6 @@
         <source>&amp;Baseline color:</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>QSpectrumAnalyzerMainWindow</name>
     <message>
         <location filename="../ui_qspectrumanalyzer.py" line="317"/>
         <source>QSpectrumAnalyzer</source>

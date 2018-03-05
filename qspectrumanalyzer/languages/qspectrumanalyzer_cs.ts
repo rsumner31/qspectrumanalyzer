@@ -262,23 +262,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../ui_qspectrumanalyzer.py" line="304"/>
-        <source>&amp;Controls</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../ui_qspectrumanalyzer.py" line="308"/>
-        <source>Fre&amp;quency</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../ui_qspectrumanalyzer.py" line="313"/>
         <source>&amp;Bin size:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../ui_qspectrumanalyzer.py" line="315"/>
-        <source>Se&amp;ttings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -292,8 +277,33 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../__main__.py" line="437"/>
+        <source>Frequency hops: {}</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../__main__.py" line="438"/>
+        <source>Sweep time: {:.2f} s | FPS: {:.2f}</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../ui_qspectrumanalyzer.py" line="304"/>
+        <source>Controls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../ui_qspectrumanalyzer.py" line="308"/>
+        <source>Frequency</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../ui_qspectrumanalyzer.py" line="315"/>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../ui_qspectrumanalyzer.py" line="330"/>
-        <source>&amp;Levels</source>
+        <source>Levels</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

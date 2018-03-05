@@ -321,6 +321,36 @@
         <source>Persistence length:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="ui_qspectrumanalyzer.py" line="282"/>
+        <source>Peak hold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ui_qspectrumanalyzer.py" line="280"/>
+        <source>Smoothing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ui_qspectrumanalyzer.py" line="283"/>
+        <source>...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="__main__.py" line="248"/>
+        <source>N/A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="__main__.py" line="248"/>
+        <source>Frequency hops: {}   Sweep time: {:.2f} s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="__main__.py" line="440"/>
+        <source>About - QSpectrumAnalyzer</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QSpectrumAnalyzerSettings</name>

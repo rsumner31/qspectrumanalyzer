@@ -280,10 +280,10 @@ class Ui_QSpectrumAnalyzerMainWindow(object):
         self.label_2.setBuddy(self.startFreqSpinBox)
         self.label_3.setBuddy(self.stopFreqSpinBox)
         self.label.setBuddy(self.binSizeSpinBox)
-        self.label_4.setBuddy(self.intervalSpinBox)
-        self.label_6.setBuddy(self.gainSpinBox)
         self.label_5.setBuddy(self.ppmSpinBox)
         self.label_7.setBuddy(self.cropSpinBox)
+        self.label_6.setBuddy(self.gainSpinBox)
+        self.label_4.setBuddy(self.intervalSpinBox)
 
         self.retranslateUi(QSpectrumAnalyzerMainWindow)
         QtCore.QMetaObject.connectSlotsByName(QSpectrumAnalyzerMainWindow)

@@ -364,6 +364,36 @@
         <source>About - QSpectrumAnalyzer</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="ui_qspectrumanalyzer.py" line="282"/>
+        <source>Peak hold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ui_qspectrumanalyzer.py" line="280"/>
+        <source>Smoothing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ui_qspectrumanalyzer.py" line="283"/>
+        <source>...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="__main__.py" line="248"/>
+        <source>N/A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="__main__.py" line="248"/>
+        <source>Frequency hops: {}   Sweep time: {:.2f} s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="__main__.py" line="440"/>
+        <source>About - QSpectrumAnalyzer</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QSpectrumAnalyzerSettings</name>
@@ -514,23 +544,66 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ui_qspectrumanalyzer_settings.py" line="91"/>
-        <source>Backend:</source>
+        <location filename="ui_qspectrumanalyzer_settings.py" line="102"/>
+        <source>&amp;Waterfall history size:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ui_qspectrumanalyzer_settings.py" line="93"/>
-        <source>rtl_power_fftw</source>
+        <location filename="ui_qspectrumanalyzer_settings.py" line="103"/>
+        <source>Sa&amp;mple rate:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ui_qspectrumanalyzer_settings.py" line="94"/>
-        <source>Executable:</source>
+        <location filename="__main__.py" line="70"/>
+        <source>Select executable - QSpectrumAnalyzer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ui_qspectrumanalyzer_settings.py" line="98"/>
-        <source>Sample rate:</source>
+        <location filename="ui_qspectrumanalyzer_settings.py" line="95"/>
+        <source>Settings - QSpectrumAnalyzer</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QSpectrumAnalyzerSmooth</name>
+    <message>
+        <location filename="ui_qspectrumanalyzer_smooth.py" line="72"/>
+        <source>&amp;Window function:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ui_qspectrumanalyzer_smooth.py" line="73"/>
+        <source>rectangular</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ui_qspectrumanalyzer_smooth.py" line="74"/>
+        <source>hanning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ui_qspectrumanalyzer_smooth.py" line="75"/>
+        <source>hamming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ui_qspectrumanalyzer_smooth.py" line="76"/>
+        <source>bartlett</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ui_qspectrumanalyzer_smooth.py" line="77"/>
+        <source>blackman</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ui_qspectrumanalyzer_smooth.py" line="78"/>
+        <source>Window len&amp;gth:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ui_qspectrumanalyzer_smooth.py" line="71"/>
+        <source>Smoothing - QSpectrumAnalyzer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
